@@ -1,0 +1,75 @@
+Time: 2023-06-24 04:22:16
+Source: RDS
+Level: INFO
+Message: Connected to RDS
+-----------------------------------
+Time: 2023-06-24 04:22:16
+Source: RDS
+Level: INFO
+Message: Table <candle_sticks> created
+-----------------------------------
+Time: 2023-06-24 04:22:17
+Source: RDS
+Level: INFO
+Message: 3387 entries loaded to table: <candle_sticks>
+-----------------------------------
+Time: 2023-06-24 04:22:17
+Source: RDS
+Level: INFO
+Message: Table <last_update> created
+-----------------------------------
+Time: 2023-06-24 04:22:17
+Source: RDS
+Level: INFO
+Message: 1 entries are modified in <last_update>
+-----------------------------------
+Time: 2023-06-24 04:22:17
+Source: RDS
+Level: INFO
+Message: 3387 entries loaded to table: <candle_sticks>
+-----------------------------------
+Time: 2023-06-24 04:22:17
+Source: RDS
+Level: INFO
+Message: 1 entries are modified in <last_update>
+-----------------------------------
+Time: 2023-06-24 04:22:18
+Source: RDS
+Level: INFO
+Message: 3265 entries loaded to table: <candle_sticks>
+-----------------------------------
+Time: 2023-06-24 04:22:18
+Source: RDS
+Level: INFO
+Message: 1 entries are modified in <last_update>
+-----------------------------------
+Time: 2023-06-24 04:22:18
+Source: RDS
+Level: INFO
+Message: 3387 entries loaded to table: <candle_sticks>
+-----------------------------------
+Time: 2023-06-24 04:22:18
+Source: RDS
+Level: INFO
+Message: 1 entries are modified in <last_update>
+-----------------------------------
+Time: 2023-06-24 04:22:18
+Source: RDS
+Level: INFO
+Message: 3387 entries loaded to table: <candle_sticks>
+-----------------------------------
+Time: 2023-06-24 04:22:18
+Source: RDS
+Level: INFO
+Message: 1 entries are modified in <last_update>
+-----------------------------------
+Time: 2023-06-24 04:22:18
+Source: RDS
+Level: INFO
+Message: Successfully committed
+-----------------------------------
+Time: 2023-06-24 04:22:18
+Source: RDS
+Level: INFO
+Message: Disconnected from RDS
+-----------------------------------
