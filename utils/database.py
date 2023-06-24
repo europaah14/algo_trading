@@ -79,7 +79,7 @@ class RDS:
         
         return [table[0] for table in self.cur.fetchall()]
     
-    def create_table(self, table_name, table_config, is_tmp=False):
+    def create_table(self, table_name, table_config):
         '''
         create table
         '''
@@ -88,16 +88,15 @@ class RDS:
             return
         
         # config of tables
-        tmp = 'temporary ' if is_tmp else ''
         col_type_pairs = ','.join(f'{col} {dtype}' for col, dtype in table_config.items())
 
-        self.logger.debug(f'Creating {tmp}table: <{table_name}>')
+        self.logger.debug(f'Creating table: <{table_name}>')
         self.cur.execute(f'''
-            create {tmp}table {table_name} (
+            create table {table_name} (
                 {col_type_pairs}
             );
         ''')
-        self.logger.info(f'{tmp}table <{table_name}> created'.capitalize())
+        self.logger.info(f'Table <{table_name}> created'.capitalize())
     
     def drop_table(self, table_name):
         self.logger.debug(f'Dropping table: <{table_name}>')
