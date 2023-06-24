@@ -1,2 +1,2 @@
-# algo_trading
-Algorithmic Trading
+# Algorithmic Trading
+
