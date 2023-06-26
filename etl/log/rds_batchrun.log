@@ -1,89 +1,74 @@
-Time: 2023-06-24 06:24:26
+Time: 2023-06-26 02:10:38
 Source: RDS
 Level: INFO
 Message: Connected to RDS
 -----------------------------------
-Time: 2023-06-24 06:24:26
+Time: 2023-06-26 02:10:39
 Source: RDS
 Level: INFO
-Message: Retrieved from <last_update>
+Message: Table <candle_sticks> created
 -----------------------------------
-Time: 2023-06-24 06:24:27
+Time: 2023-06-26 02:10:39
 Source: RDS
 Level: INFO
-Message: 4 entries loaded to table: <candle_sticks>
+Message: 3387 entries loaded to table: <candle_sticks>
 -----------------------------------
-Time: 2023-06-24 06:24:27
+Time: 2023-06-26 02:10:39
 Source: RDS
 Level: INFO
-Message: 1 entries are modified in <last_update>
+Message: Table <last_update> created
 -----------------------------------
-Time: 2023-06-24 06:24:27
-Source: RDS
-Level: INFO
-Message: Retrieved from <last_update>
------------------------------------
-Time: 2023-06-24 06:24:27
-Source: RDS
-Level: INFO
-Message: 4 entries loaded to table: <candle_sticks>
------------------------------------
-Time: 2023-06-24 06:24:27
+Time: 2023-06-26 02:10:39
 Source: RDS
 Level: INFO
 Message: 1 entries are modified in <last_update>
 -----------------------------------
-Time: 2023-06-24 06:24:27
+Time: 2023-06-26 02:10:40
 Source: RDS
 Level: INFO
-Message: Retrieved from <last_update>
+Message: 3387 entries loaded to table: <candle_sticks>
 -----------------------------------
-Time: 2023-06-24 06:24:27
-Source: RDS
-Level: INFO
-Message: 4 entries loaded to table: <candle_sticks>
------------------------------------
-Time: 2023-06-24 06:24:27
+Time: 2023-06-26 02:10:40
 Source: RDS
 Level: INFO
 Message: 1 entries are modified in <last_update>
 -----------------------------------
-Time: 2023-06-24 06:24:27
+Time: 2023-06-26 02:10:40
 Source: RDS
 Level: INFO
-Message: Retrieved from <last_update>
+Message: 3265 entries loaded to table: <candle_sticks>
 -----------------------------------
-Time: 2023-06-24 06:24:27
-Source: RDS
-Level: INFO
-Message: 4 entries loaded to table: <candle_sticks>
------------------------------------
-Time: 2023-06-24 06:24:27
+Time: 2023-06-26 02:10:40
 Source: RDS
 Level: INFO
 Message: 1 entries are modified in <last_update>
 -----------------------------------
-Time: 2023-06-24 06:24:27
+Time: 2023-06-26 02:10:41
 Source: RDS
 Level: INFO
-Message: Retrieved from <last_update>
+Message: 3387 entries loaded to table: <candle_sticks>
 -----------------------------------
-Time: 2023-06-24 06:24:28
-Source: RDS
-Level: INFO
-Message: 4 entries loaded to table: <candle_sticks>
------------------------------------
-Time: 2023-06-24 06:24:28
+Time: 2023-06-26 02:10:41
 Source: RDS
 Level: INFO
 Message: 1 entries are modified in <last_update>
 -----------------------------------
-Time: 2023-06-24 06:24:28
+Time: 2023-06-26 02:10:41
+Source: RDS
+Level: INFO
+Message: 3387 entries loaded to table: <candle_sticks>
+-----------------------------------
+Time: 2023-06-26 02:10:41
+Source: RDS
+Level: INFO
+Message: 1 entries are modified in <last_update>
+-----------------------------------
+Time: 2023-06-26 02:10:41
 Source: RDS
 Level: INFO
 Message: Successfully committed
 -----------------------------------
-Time: 2023-06-24 06:24:28
+Time: 2023-06-26 02:10:41
 Source: RDS
 Level: INFO
 Message: Disconnected from RDS

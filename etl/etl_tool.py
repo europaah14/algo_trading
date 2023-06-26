@@ -12,8 +12,7 @@ import pandas as pd
 from datetime import datetime, timedelta, timezone
 
 # local imports
-sys.path.append('./utils')
-from log_tool import LogUtils
+from utils.log_tool import LogUtils
 
 # constant definitions
 CANDLE_STICKS_COLS = {

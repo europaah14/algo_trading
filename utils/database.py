@@ -6,19 +6,24 @@ create tables, query tables, and update tables.
 '''
 
 # standard imports
-import sys
 import psycopg2 as pg
 from io import StringIO
 from time import time
 import pandas as pd
 
 # local imports
-sys.path.append('./utils')
-from log_tool import LogUtils
+from utils.log_tool import LogUtils
 
 class RDS:
-    def __init__(self, cred, verbose=20, log_file=None):
-        self.cred = cred
+    def __init__(self, host, port, user, pwd, db, verbose=20, log_file=None):
+        # mangle credential
+        self.__cred = {
+            'host': host,
+            'port': port,
+            'user': user,
+            'password': pwd,
+            'database': db
+        }
         self.conn = None
         self.cur = None
         self.commit = True
@@ -33,7 +38,7 @@ class RDS:
         RDS Instance Connection
         '''
         try:
-            self.conn = pg.connect(**self.cred)
+            self.conn = pg.connect(**self.__cred)
             self.cur = self.conn.cursor()
             self.logger.info('Connected to RDS')
         

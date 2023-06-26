@@ -1,99 +1,99 @@
-Time: 2023-06-24 06:24:13
+Time: 2023-06-26 02:10:39
 Source: ETL
 Level: INFO
 Message: Download of AAPL's candle stick data completed
 -----------------------------------
-Time: 2023-06-24 06:24:13
+Time: 2023-06-26 02:10:39
 Source: ETL
 Level: INFO
 Message: Transformation of AAPL's raw candle sticks data completed
 -----------------------------------
-Time: 2023-06-24 06:24:13
+Time: 2023-06-26 02:10:39
 Source: ETL
 Level: INFO
 Message: Loading to <candle_sticks> completed
 -----------------------------------
-Time: 2023-06-24 06:24:13
+Time: 2023-06-26 02:10:39
 Source: ETL
 Level: INFO
 Message: 20100101-20230616 ETL for AAPL completed
 -----------------------------------
-Time: 2023-06-24 06:24:13
+Time: 2023-06-26 02:10:39
 Source: ETL
 Level: INFO
 Message: Download of NVDA's candle stick data completed
 -----------------------------------
-Time: 2023-06-24 06:24:13
+Time: 2023-06-26 02:10:39
 Source: ETL
 Level: INFO
 Message: Transformation of NVDA's raw candle sticks data completed
 -----------------------------------
-Time: 2023-06-24 06:24:14
+Time: 2023-06-26 02:10:40
 Source: ETL
 Level: INFO
 Message: Loading to <candle_sticks> completed
 -----------------------------------
-Time: 2023-06-24 06:24:14
+Time: 2023-06-26 02:10:40
 Source: ETL
 Level: INFO
 Message: 20100101-20230616 ETL for NVDA completed
 -----------------------------------
-Time: 2023-06-24 06:24:14
+Time: 2023-06-26 02:10:40
 Source: ETL
 Level: INFO
 Message: Download of TSLA's candle stick data completed
 -----------------------------------
-Time: 2023-06-24 06:24:14
+Time: 2023-06-26 02:10:40
 Source: ETL
 Level: INFO
 Message: Transformation of TSLA's raw candle sticks data completed
 -----------------------------------
-Time: 2023-06-24 06:24:14
+Time: 2023-06-26 02:10:40
 Source: ETL
 Level: INFO
 Message: Loading to <candle_sticks> completed
 -----------------------------------
-Time: 2023-06-24 06:24:14
+Time: 2023-06-26 02:10:40
 Source: ETL
 Level: INFO
 Message: 20100101-20230616 ETL for TSLA completed
 -----------------------------------
-Time: 2023-06-24 06:24:14
+Time: 2023-06-26 02:10:40
 Source: ETL
 Level: INFO
 Message: Download of TSM's candle stick data completed
 -----------------------------------
-Time: 2023-06-24 06:24:14
+Time: 2023-06-26 02:10:40
 Source: ETL
 Level: INFO
 Message: Transformation of TSM's raw candle sticks data completed
 -----------------------------------
-Time: 2023-06-24 06:24:14
+Time: 2023-06-26 02:10:41
 Source: ETL
 Level: INFO
 Message: Loading to <candle_sticks> completed
 -----------------------------------
-Time: 2023-06-24 06:24:15
+Time: 2023-06-26 02:10:41
 Source: ETL
 Level: INFO
 Message: 20100101-20230616 ETL for TSM completed
 -----------------------------------
-Time: 2023-06-24 06:24:15
+Time: 2023-06-26 02:10:41
 Source: ETL
 Level: INFO
 Message: Download of MSFT's candle stick data completed
 -----------------------------------
-Time: 2023-06-24 06:24:15
+Time: 2023-06-26 02:10:41
 Source: ETL
 Level: INFO
 Message: Transformation of MSFT's raw candle sticks data completed
 -----------------------------------
-Time: 2023-06-24 06:24:15
+Time: 2023-06-26 02:10:41
 Source: ETL
 Level: INFO
 Message: Loading to <candle_sticks> completed
 -----------------------------------
-Time: 2023-06-24 06:24:15
+Time: 2023-06-26 02:10:41
 Source: ETL
 Level: INFO
 Message: 20100101-20230616 ETL for MSFT completed
